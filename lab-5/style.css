@@ -9,7 +9,7 @@
 }
 /* 3. пунктам списку цілей за класом дайте колір заднього фону yellow і нахилений шрифт (font-style: italic)*/
 .italic {
-  background-color:yellow;
+  /* background-color:yellow; */
   font-style:italic;
 }
 /* 4. для усіх впорядкованих списків задайте рамку 1px solid red */
